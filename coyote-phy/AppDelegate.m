@@ -7,12 +7,29 @@
 //
 
 #import "AppDelegate.h"
+#import "Toolkit.h"
+#import "IQKeyboardManager.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    //开启键盘遮挡
+    [[IQKeyboardManager sharedManager]setEnable:YES];
+    
+    if ([Toolkit getTotalTime] == NULL) {
+        [Toolkit saveTotalTime:@"3000"];
+    }
+    if ([Toolkit getRecordTime] == NULL) {
+        [Toolkit saveRecordTime:@"2"];
+    }
+    if ([Toolkit getNoticeTime] == NULL) {
+        [Toolkit saveNoticeTime:@"3"];
+    }
+    if ([Toolkit getTestUrl] == NULL) {
+        [Toolkit saveTestUrl:@"127.0.0.1"];
+    }
+    
     return YES;
 }
 							
