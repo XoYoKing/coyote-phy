@@ -11,7 +11,7 @@
 			<string>错误【错误分析】1、不了解生物和非生物的含义 2、不知道蘑菇也属于生物 【学习建议】1、学习生物与非生物的本质区别，认识生物的共同特征（配图1） 2、认识蘑菇是真菌的一种，真菌也是生物（配图2），具有生物的共同特征。</string>
 		</array>
 		<key>reply</key>
-		<string>A</string>
+		<string>C</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -22,7 +22,7 @@
 			<string>错误【错误分析】不了解生物的分类【学习建议】学习生物的分类方式，以及各界的主要代表生物 </string>
 		</array>
 		<key>reply</key>
-		<string>A</string>
+		<string>D</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -44,7 +44,7 @@
 			<string>正确</string>
 		</array>
 		<key>reply</key>
-		<string>D</string>
+		<string>C</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -55,29 +55,29 @@
 			<string>错误【错误分析】知道生物的生存需要食物，但对食物的作用了解不全面 【学习建议】学习食物对生物的作用</string>
 		</array>
 		<key>reply</key>
-		<string>A</string>
-	</dict>
-	<dict>
-		<key>explaination</key>
-		<array>
-			<string>正确</string>
-			<string>错误</string>
-			<string>错误</string>
-			<string>错误</string>
-		</array>
-		<key>reply</key>
-		<string>A</string>
-	</dict>
-	<dict>
-		<key>explaination</key>
-		<array>
-			<string>错误</string>
-			<string>错误</string>
-			<string>正确</string>
-			<string>错误</string>
-		</array>
-		<key>reply</key>
 		<string>C</string>
+	</dict>
+	<dict>
+		<key>explaination</key>
+		<array>
+			<string>正确</string>
+			<string>错误</string>
+			<string>错误</string>
+			<string>错误</string>
+		</array>
+		<key>reply</key>
+		<string>A</string>
+	</dict>
+	<dict>
+		<key>explaination</key>
+		<array>
+			<string>错误</string>
+			<string>错误</string>
+			<string>正确</string>
+			<string>错误</string>
+		</array>
+		<key>reply</key>
+		<string>D</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -92,7 +92,7 @@
 			<string>错误【错误分析】知道水果蔬菜的保鲜必须减缓其呼吸作用，也知道降低氧气含量能够减缓呼吸作用，但是冰箱的主要作用不是降低氧气含量，而是降低温度 【学习建议】知识基本掌握，建议多与生活实际相联系</string>
 		</array>
 		<key>reply</key>
-		<string>B</string>
+		<string>A</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -103,7 +103,7 @@
 			<string>错误【错误分析】不知道食物链中每一种生物都有着直接和间接的关系【学习建议】运用逻辑推理，思考当青蛙数量剧减时，蚂蚱和草的数量变化</string>
 		</array>
 		<key>reply</key>
-		<string>B</string>
+		<string>C</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -114,7 +114,7 @@
 			<string>正确</string>
 		</array>
 		<key>reply</key>
-		<string>D</string>
+		<string>B</string>
 	</dict>
 	<dict>
 		<key>explaination</key>
@@ -144,7 +144,7 @@
 			<string>正确</string>
 		</array>
 		<key>reply</key>
-		<string>D</string>
+		<string>C</string>
 	</dict>
 </array>
 </plist>

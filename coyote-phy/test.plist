@@ -215,58 +215,6 @@
 	<dict>
 		<key>picture</key>
 		<array>
-			<string>40001.jpg</string>
-			<string>40002.jpg</string>
-			<string>40003.jpg</string>
-			<string>40004.jpg</string>
-			<string>40005.jpg</string>
-			<string>40006.jpg</string>
-			<string>40007.jpg</string>
-			<string>40008.jpg</string>
-			<string>40009.jpg</string>
-			<string>40010.jpg</string>
-			<string>40011.jpg</string>
-			<string>40012.jpg</string>
-			<string>40013.jpg</string>
-			<string>40014.jpg</string>
-			<string>40015.jpg</string>
-			<string>40016.jpg</string>
-			<string>40017.jpg</string>
-			<string>40018.jpg</string>
-			<string>40019.jpg</string>
-			<string>40020.jpg</string>
-			<string>40021.jpg</string>
-			<string>40022.jpg</string>
-			<string>40023.jpg</string>
-			<string>40024.jpg</string>
-			<string>40025.jpg</string>
-			<string>40026.jpg</string>
-			<string>40027.jpg</string>
-			<string>40028.jpg</string>
-			<string>40029.jpg</string>
-			<string>40030.jpg</string>
-			<string>40031.jpg</string>
-			<string>40032.jpg</string>
-			<string>40033.jpg</string>
-		</array>
-		<key>question</key>
-		<string>11月17日，清华大学宣布，清华大学生命学院罗永章教授研究组在国际上首次发现热休克蛋白90α（Hsp90α）为一个全新的肿瘤标志物，自主研发的Hsp90α定量检测试剂盒已通过临床试验验证，获得了国家第三类（最高类别）医疗器械证书，并通过了欧盟认证。这也是人Hsp90α被发现24年来，全球首个将其用于临床的产品。</string>
-		<key>test_picture</key>
-		<string>07.jpg</string>
-		<key>sign</key>
-		<string>0</string>
-		<key>answer</key>
-		<array>
-			<string>安徽宣城市</string>
-			<string>浙江杭州市</string>
-			<string>江苏苏州市</string>
-			<string>江苏南京市</string>
-			<string>西藏自治区拉萨市</string>
-		</array>
-	</dict>
-	<dict>
-		<key>picture</key>
-		<array>
 			<string>30001.jpg</string>
 			<string>30002.jpg</string>
 			<string>30003.jpg</string>
@@ -317,6 +265,58 @@
 			<string>30048.jpg</string>
 			<string>30049.jpg</string>
 			<string>30050.jpg</string>
+		</array>
+		<key>question</key>
+		<string>11月17日，清华大学宣布，清华大学生命学院罗永章教授研究组在国际上首次发现热休克蛋白90α（Hsp90α）为一个全新的肿瘤标志物，自主研发的Hsp90α定量检测试剂盒已通过临床试验验证，获得了国家第三类（最高类别）医疗器械证书，并通过了欧盟认证。这也是人Hsp90α被发现24年来，全球首个将其用于临床的产品。</string>
+		<key>test_picture</key>
+		<string>07.jpg</string>
+		<key>sign</key>
+		<string>0</string>
+		<key>answer</key>
+		<array>
+			<string>安徽宣城市</string>
+			<string>浙江杭州市</string>
+			<string>江苏苏州市</string>
+			<string>江苏南京市</string>
+			<string>西藏自治区拉萨市</string>
+		</array>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<array>
+			<string>40001.jpg</string>
+			<string>40002.jpg</string>
+			<string>40003.jpg</string>
+			<string>40004.jpg</string>
+			<string>40005.jpg</string>
+			<string>40006.jpg</string>
+			<string>40007.jpg</string>
+			<string>40008.jpg</string>
+			<string>40009.jpg</string>
+			<string>40010.jpg</string>
+			<string>40011.jpg</string>
+			<string>40012.jpg</string>
+			<string>40013.jpg</string>
+			<string>40014.jpg</string>
+			<string>40015.jpg</string>
+			<string>40016.jpg</string>
+			<string>40017.jpg</string>
+			<string>40018.jpg</string>
+			<string>40019.jpg</string>
+			<string>40020.jpg</string>
+			<string>40021.jpg</string>
+			<string>40022.jpg</string>
+			<string>40023.jpg</string>
+			<string>40024.jpg</string>
+			<string>40025.jpg</string>
+			<string>40026.jpg</string>
+			<string>40027.jpg</string>
+			<string>40028.jpg</string>
+			<string>40029.jpg</string>
+			<string>40030.jpg</string>
+			<string>40031.jpg</string>
+			<string>40032.jpg</string>
+			<string>40033.jpg</string>
 		</array>
 		<key>question</key>
 		<string>11月17日，清华大学宣布，清华大学生命学院罗永章教授研究组在国际上首次发现热休克蛋白90α（Hsp90α）为一个全新的肿瘤标志物，自主研发的Hsp90α定量检测试剂盒已通过临床试验验证，获得了国家第三类（最高类别）医疗器械证书，并通过了欧盟认证。这也是人Hsp90α被发现24年来，全球首个将其用于临床的产品。</string>
